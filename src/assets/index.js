@@ -1,4 +1,4 @@
-import logoF from "./f-logos.png";
+import logoF from "./f-logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
