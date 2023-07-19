@@ -15,16 +15,16 @@ const Hero = () => {
           <div className="w-1 sm:h-80 h-40 violet-gradient" />
         </div>
         <div>
-          <h1 className={`${styles.heroHeadText} text-[#99e0ac]`}>Hi, I'm
+          <h1 className={`${styles.heroHeadText}`}>Hi, I'm
             <span className="text-[#52d959]"> Fernanda</span> </h1>
-          <p className={`${styles.heroSubText} mt-2 text-[#99e0ac]`}>
+          <p className={`${styles.heroSubText} mt-2`}>
             I develop Frontend and Backend <br className="sm:block hidden" /> for web applications React
           </p>
         </div>
       </div>
       <ComputersCanvas />
-      <div className="absolute xs:bottom-10
-        bottom-32 w-full flex justify-center
+      <div className="absolute xs:bottom-19 bottom-40
+        w-full flex justify-center
         items-center">
         <a href="#about">
           <div className="w-[35px] h-[64px]
