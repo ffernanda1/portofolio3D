@@ -1,0 +1,11 @@
+Model Information:
+* title:	3December2020 - BMO
+* source:	https://sketchfab.com/3d-models/3december2020-bmo-0ce18c5f562d469caf7a4653270f2c57
+* author:	Jack Kelly (https://sketchfab.com/slightlyintelligent)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3December2020 - BMO" (https://sketchfab.com/3d-models/3december2020-bmo-0ce18c5f562d469caf7a4653270f2c57) by Jack Kelly (https://sketchfab.com/slightlyintelligent) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
