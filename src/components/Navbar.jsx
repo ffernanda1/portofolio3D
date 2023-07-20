@@ -30,9 +30,9 @@ const Navbar = () => {
           {navLinks.map((Link) => (
             <li key={Link.id}
               className={`${active === Link.title
-                ? "text-white"
+                ? "text-[#32e609]"
                 : "text-black"
-                } hover:text-white text-[18px] font-medium cursor-pointer`}
+                } hover:text-[#32e609] text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(Link.title)}
             >
               <a href={`#${Link.id}`}>{Link.title}</a>
@@ -57,7 +57,7 @@ const Navbar = () => {
               {navLinks.map((Link) => (
                 <li key={Link.id}
                   className={`${active === Link.title
-                    ? "text-white"
+                    ? "text-[#32e609]"
                     : "text-black"
                     } font-poppins font-medium cursor-pointer text-[16px]`}
                   onClick={() => {
