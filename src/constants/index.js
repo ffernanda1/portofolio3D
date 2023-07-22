@@ -4,7 +4,6 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
@@ -14,7 +13,7 @@ import {
   mongodb,
   git,
   figma,
-  docker,
+  postgre,
   atkp,
   pnup,
   imip,
@@ -74,10 +73,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -110,8 +105,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "postgresql",
+    icon: postgre,
   },
 ];
 
@@ -123,10 +118,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "September 2017 - Agustus 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Sebagai seorang alumni dari Politeknik Penerbangan Makassar, saya merasa bangga dengan pendidikan yang telah saya dapatkan. Selama masa studi di kampus, semangat saya untuk belajar dan berkembang di dunia penerbangan semakin berkembang.",
+      "Kurikulum yang komprehensif di Politeknik Penerbangan Makassar telah memperluas pengetahuan saya tentang navigasi udara dan keterampilan teknis yang sangat penting dalam industri ini. Saya juga telah terlibat dalam berbagai proyek dan organisasi, yang telah mengasah kemampuan kepemimpinan dan kerjasama tim saya.",
+      "Pengalaman lapangan yang saya dapatkan selama di kampus juga sangat berharga dalam membantu saya memahami dan menghadapi tantangan dunia nyata.",
+      "Sebagai alumni, saya siap untuk memberikan kontribusi positif dan menerapkan semua yang telah saya pelajari untuk terus maju dalam karir profesional di industri penerbangan.",
     ],
   },
   {

@@ -8,7 +8,7 @@ import menu from "./tree.png";
 import close from "./closing.png";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
+import postgre from "./tech/postgre.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -40,7 +40,7 @@ export {
   menu,
   close,
   css,
-  docker,
+  postgre,
   figma,
   git,
   html,
