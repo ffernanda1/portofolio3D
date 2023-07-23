@@ -18,7 +18,7 @@ import {
   pnup,
   imip,
   rubicamp,
-  carrent,
+  memories,
   jobit,
   tripguide,
   threejs,
@@ -190,9 +190,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Instagram Web-based",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform aplikasi yang bekerja seperti instagram, memiliki login dengan Auth Google dan register/login dengan email(JWT). Setiap user bisa memposting postingan, like postingan user lain (tiap user hanya bisa like 1 kali ditiap postingan) dan edit, delete postingan (hanya dapat bekerja di postingan user tersebut).",
     tags: [
       {
         name: "react",
@@ -203,11 +203,15 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "nodejs",
         color: "pink-text-gradient",
       },
+      {
+        name: "express",
+        color: "brown-text-gradient",
+      },
     ],
-    image: carrent,
+    image: memories,
     source_code_link: "https://github.com/",
   },
   {

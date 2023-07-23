@@ -26,7 +26,7 @@ import rubicamp from "./company/rubicamp.png";
 import pnup from "./company/pnup.png";
 import imip from "./company/imip.png";
 
-import carrent from "./carrent.png";
+import memories from "./memories.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -56,7 +56,7 @@ export {
   rubicamp,
   pnup,
   imip,
-  carrent,
+  memories,
   jobit,
   tripguide,
 };
