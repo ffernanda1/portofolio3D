@@ -27,8 +27,8 @@ import pnup from "./company/pnup.png";
 import imip from "./company/imip.png";
 
 import memories from "./memories.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import jobit from "./pointofsale.png";
+import tripguide from "./laundry.png";
 
 export {
   logoF,

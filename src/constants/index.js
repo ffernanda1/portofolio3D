@@ -195,66 +195,87 @@ const projects = [
       "Web-based platform aplikasi yang bekerja seperti instagram, memiliki login dengan Auth Google dan register/login dengan email(JWT). Setiap user bisa memposting postingan, like postingan user lain (tiap user hanya bisa like 1 kali ditiap postingan) dan edit, delete postingan (hanya dapat bekerja di postingan user tersebut).",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "MongodbAtlas",
         color: "green-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "NodeJs",
         color: "pink-text-gradient",
       },
       {
-        name: "express",
+        name: "Express",
         color: "brown-text-gradient",
       },
     ],
     image: memories,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/ffernanda1/Memories_React",
   },
   {
-    name: "Job IT",
+    name: "Point of Sale",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application yang bekerja seperti kasir penjualan dan pembelian barang, memiliki auto generate invoice, munggunakan database postgresql dan trigger function postgresql sebagai dasar pada perubahan data sehingga ketika data di input, data yang memiliki hubungan dengan data yang diinput juga mengalami perubahan sesuai perubahan yang seharusnya.",
     tags: [
       {
-        name: "react",
+        name: "Jquery",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Express",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "NodeJs",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Express",
+        color: "brown-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/ffernanda1/ChallengeWEB/tree/main/ChallengePos",
   },
   {
-    name: "Trip Guide",
+    name: "Laundry App Android",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Aplikasi Android yang dibuat dengan React Native dan figma. Pengguna bisa mengorder pakaian untuk di laundry dan mengantar kembali pakaian yang telah selesai dengan aplikasi.",
     tags: [
       {
-        name: "nextjs",
+        name: "ReactNative",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Figma",
+        color: "green-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/ffernanda1/LaundryNative",
+  },
+  {
+    name: "Vue Simple Chat",
+    description:
+      "Simple chat menggunakan VueJs, Simple chat ini juga memiliki user seperti aplikasi Whatsapp.",
+    tags: [
+      {
+        name: "VueJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Socket.io",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Mongoose",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/ffernanda1/vue-map-task",
   },
 ];
 
