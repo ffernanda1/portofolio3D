@@ -22,6 +22,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  vuechat
   
 } from "../assets";
 
@@ -274,8 +275,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/ffernanda1/vue-map-task",
+    image: vuechat,
+    source_code_link: "https://github.com/ffernanda1/vue-chat",
   },
 ];
 

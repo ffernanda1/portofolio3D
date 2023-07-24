@@ -29,6 +29,7 @@ import imip from "./company/imip.png";
 import memories from "./memories.png";
 import jobit from "./pointofsale.png";
 import tripguide from "./laundry.png";
+import vuechat from "./vuechat.png";
 
 export {
   logoF,
@@ -59,4 +60,5 @@ export {
   memories,
   jobit,
   tripguide,
+  vuechat
 };
