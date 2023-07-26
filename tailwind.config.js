@@ -20,7 +20,9 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/rm209-ning-06-e.png')",
+        "hero-pattern": "url('/src/assets/bg-green.png')",
+        "hero2-pattern": "url('/src/assets/bg-green2.png')",
+        "hero3-pattern": "url('/src/assets/bg-green3.png')",
       },
     },
   },
